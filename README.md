@@ -15,10 +15,13 @@
 <a href="https://www.linkedin.com/in/martin-jose-zuleta-mejia-51601b177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
- 
+<div style="display:flex; flex-wrap: wrap;">
 <img src="https://github-readme-stats.vercel.app/api?username=mzuleta6&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=stars">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mzuleta4&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=stars">
+</div>
+ 
+
 <!--
 **mzuleta6/mzuleta6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
