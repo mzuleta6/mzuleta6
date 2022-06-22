@@ -16,10 +16,12 @@
 
 
 <b>Professional Github</b>
+ <br /><br />
 <img src="https://github-readme-stats.vercel.app/api?username=mzuleta6&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=stars">
 
 
 <b>Personal Github</b>
+ <br /><br />
 <img src="https://github-readme-stats.vercel.app/api?username=mzuleta4&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=stars">
 <!--
 **mzuleta6/mzuleta6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
