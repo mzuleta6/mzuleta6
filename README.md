@@ -17,8 +17,9 @@
 
 <div style="display:flex; flex-wrap: wrap;">
 <img src="https://github-readme-stats.vercel.app/api?username=mzuleta6&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=stars">
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=mzuleta4&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide=stars">
+ -->
 </div>
  
 
